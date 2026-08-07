@@ -56,39 +56,29 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 * **LLM & RAG Integration:** Designed and deployed Retrieval-Augmented Generation (RAG) pipelines using vector databases (Pinecone, ChromaDB, Qdrant) to optimize response accuracy and reduce hallucination.
 * **Prompt Engineering & Workflows:** Implemented custom prompt strategies, agentic workflows (LangChain / LangGraph), and fine-tuned open-source LLMs (Llama, Mistral) for domain-specific tasks.
 * **Production AI Systems:** Integrated Generative AI models into scalable REST APIs and serverless architectures using FastAPI, Python, Docker, and AWS.
-
----
-
+  <br>
 ### **Marriage Biodata Creator** — *Founder & Product Lead*
 🗓 **June 2025 – Present** | Remote
 
 * **Product Strategy & Growth:** Owned product roadmap, user acquisition, and retention strategies, driving organic growth to over **30,000 monthly users** and generating **40k+ revenue**.
 * **AI Analytics Integration:** Built an AI agent that bridges raw data and actionable business intelligence, allowing non-technical stakeholders to query MongoDB databases using natural language.
 * **Conversion & UX Optimization:** Optimized multi-step funnel logic and data-driven UI/UX design, significantly increasing retention while managing SEO across blogs and channels.
-
----
-
+  <br>
 ### **GeeksforGeeks** — *Python Backend Developer & Data Scientist*
 🗓 **March 2024 – August 2025** | Patna, Bihar, India
 
 * **Backend Development:** Built and maintained robust RESTful APIs using Django and FastAPI, optimizing query performance and system reliability.
 * **Data Science & ML:** Preprocessed complex datasets, built predictive machine learning models (Scikit-Learn, Pandas, NumPy), and automated data ingestion pipelines (PostgreSQL/SQL) for production ML workflows.
 
----
-
 ### **GeeksforGeeks** — *SEO Intern*
 🗓 **September 2023 – March 2024** | Noida, UP, India
 
 * Analyzed large-scale web and search performance data using Google Search Console and Analytics to identify trends and optimize content discoverability.
 
----
-
 ### **Indian Developers** — *Search Engine Optimization Analyst*
 🗓 **January 2023 – July 2023** | Purnea, Bihar, India
 
 * Managed technical SEO strategies and performance metrics to increase organic reach.
-
----
 
 ### **Suven Consultants and Technology Pvt. Ltd.** — *Frontend Intern*
 🗓 **2020 – October 2020** | Mumbai, MH, India
@@ -97,7 +87,7 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
 * **Bachelor of Technology (B.Tech) — Electronics & Communication Engineering**
   * *Purnea College of Engineering, Purnea* | *Aryabhatta Knowledge University, Patna*
@@ -107,11 +97,11 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 
 ---
 
-### 📚 Publications & Certifications
+## 📚 Publications & Certifications
 
 **Publications**
-* *Roles of Generative AI in Drug Discovery: Advantages, Case Studies and Examples*
-* *Softmax Activation Function in Neural Networks*
+* [Roles of Generative AI in Drug Discovery: Advantages, Case Studies and Examples](https://www.geeksforgeeks.org/artificial-intelligence/roles-of-generative-ai-in-drug-is-discovery-advantages-case-studies-and-examples/)
+* [Softmax Activation Function in Neural Networks](https://www.geeksforgeeks.org/deep-learning/the-role-of-softmax-in-neural-networks-detailed-explanation-and-applications/)
 
 **Certifications & Tracks**
 * AI Engineer Agentic Track: The Complete Agent & MCP
@@ -121,9 +111,9 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 
 ### 🏆 Honors & Awards
 
+* 🥇 **Cracked** — polytechnic - 2018 and JNVST Exam 2015
 * 🏅 **D.S.T. Govt. of India Certified** — 23rd District Children's Science Congress (2015)
-* 🥇 **Winner** — Quiz Competition (2015)
-
+* 🥇 **Winner** — Quiz Competition (2015) + (2017)
 ---
 
 ### 🌐 Connect With Me
