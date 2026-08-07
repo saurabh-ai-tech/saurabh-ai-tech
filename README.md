@@ -1,6 +1,7 @@
 # Hi 👋, I'm Saurabh Kumar
 
 🚀 Generative AI Engineer | AI Agents | NLP & LLMs | Autonomous Systems | RAG | Vector DBs
+
 I’m deeply fascinated by Generative AI and the potential of AI agents to autonomously interact, reason, and solve real-world problems. My focus is on LLMs, Retrieval-Augmented Generation (RAG), Vector Databases, and multi-agent systems to build scalable and intelligent AI solutions.
 
 ---
@@ -47,19 +48,19 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 * Implemented secure JWT authentication and thread-based conversation memory using a MongoDB LangGraph checkpointer to persist multi-turn chat sessions.
 * Deployed microservices on AWS EC2 using PM2 process management, setting up Nginx reverse proxies, custom subdomains, and SSL certificates via Certbot.
 
-#### 📄 Chat with Multiple PDFs (RAG System)
-* **Tech:** Python, Streamlit, Gemini 2.5 Flash, Vector Embeddings, PyPDF, RAG
-* 🔗 [Live Demo](https://chat-with-multiple-pdfs-lnxn.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/chat-with-multiple-PDFs)
-* Built a Retrieval-Augmented Generation (RAG) document chat application using Streamlit and Google Gen AI SDK for contextual document analysis.
-* Implemented document parsing and semantic chunking using `pypdf`, preserving page and file metadata to output grounded answers with precise source citations.
-* Configured `gemini-embedding-2` and an in-memory vector store with cosine similarity ranking to achieve high-accuracy, zero-hallucination document search.
-
 #### 📊 Student Performance Machine Learning Pipeline
 * **Tech:** Python, FastAPI, Scikit-Learn, Docker, Pandas, NumPy
 * 🔗 [Live Demo](https://machine-learning-project-agn0.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/machine-learning-project)
 * Architected a modular end-to-end Machine Learning pipeline featuring automated data ingestion, categorical encoding, feature scaling, and artifact persistence (`.pkl`).
 * Benchmarked multiple regression algorithms using hyperparameter tuning to accurately predict student academic performance.
 * Developed a lightweight FastAPI web interface and containerized the entire pipeline using Docker for streamlined local and cloud deployment.
+
+#### 📄 Chat with Multiple PDFs (RAG System)
+* **Tech:** Python, Streamlit, Gemini 2.5 Flash, Vector Embeddings, PyPDF, RAG
+* 🔗 [Live Demo](https://chat-with-multiple-pdfs-lnxn.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/chat-with-multiple-PDFs)
+* Built a Retrieval-Augmented Generation (RAG) document chat application using Streamlit and Google Gen AI SDK for contextual document analysis.
+* Implemented document parsing and semantic chunking using `pypdf`, preserving page and file metadata to output grounded answers with precise source citations.
+* Configured `gemini-embedding-2` and an in-memory vector store with cosine similarity ranking to achieve high-accuracy, zero-hallucination document search.
 
 ---
 
