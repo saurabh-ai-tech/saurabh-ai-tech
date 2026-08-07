@@ -6,12 +6,12 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 * 🧠 **Specialization:** Building agentic workflows, RAG architectures, and autonomous multi-agent systems
 * 🌱 **Focus:** Reducing model hallucinations, context optimization, and scalable AI microservices
 * ⚡ **Hands-on Experience:** Vector Databases, LLMOps, Fine-tuning, and Full-Stack AI integration
-* 🏆 **Achievements:** D.S.T. Gov. of India Certified (23rd District Children's Science Congress)
+* 🏆 **Achievements:** Created a Product(marriagebiodatacreator.com) used by 30k+ users monthly
 * 📍 **Location:** Begusarai, Bihar, India
 * 📫 **Contact:** 
   * 📧 **Email:** [saurabh01.ece@gmail.com](mailto:saurabh01.ece@gmail.com)
@@ -19,7 +19,7 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **🤖 Generative AI & LLMs**
 `LangChain` `LangGraph` `AutoGen` `RAG` `Prompt Engineering` `Chain-of-Thought` `LoRA` `GPTQ`
@@ -38,62 +38,61 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### 🤖 AI Analytics Agent
-* **Tech:** FastAPI, LangGraph, Streamlit, Gemini API, MongoDB, Docker, AWS, Nginx
-* 🔗 [Live Demo](https://ai-analytics-interface.marriagebiodatacreator.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/ai-analytics-agent)
-* Engineered an agentic text-to-MongoDB analytics system using LangGraph and Gemini API to convert plain-English queries into validated database operations and interactive Plotly visualizations.
-* Built a security validation layer and schema-grounding engine to strictly restrict execution to read-only MongoDB operations (`find`, `aggregate`, `count`), eliminating unauthorized data mutations.
-* Implemented secure JWT authentication and thread-based conversation memory using a MongoDB LangGraph checkpointer to persist multi-turn chat sessions.
-* Deployed microservices on AWS EC2 using PM2 process management, setting up Nginx reverse proxies, custom subdomains, and SSL certificates via Certbot.
-
-#### 📊 Student Performance Machine Learning Pipeline
-* **Tech:** Python, FastAPI, Scikit-Learn, Docker, Pandas, NumPy
-* 🔗 [Live Demo](https://machine-learning-project-agn0.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/machine-learning-project)
-* Architected a modular end-to-end Machine Learning pipeline featuring automated data ingestion, categorical encoding, feature scaling, and artifact persistence (`.pkl`).
-* Benchmarked multiple regression algorithms using hyperparameter tuning to accurately predict student academic performance.
-* Developed a lightweight FastAPI web interface and containerized the entire pipeline using Docker for streamlined local and cloud deployment.
-
-#### 📄 Chat with Multiple PDFs (RAG System)
-* **Tech:** Python, Streamlit, Gemini 2.5 Flash, Vector Embeddings, PyPDF, RAG
-* 🔗 [Live Demo](https://chat-with-multiple-pdfs-lnxn.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/chat-with-multiple-PDFs)
-* Built a Retrieval-Augmented Generation (RAG) document chat application using Streamlit and Google Gen AI SDK for contextual document analysis.
-* Implemented document parsing and semantic chunking using `pypdf`, preserving page and file metadata to output grounded answers with precise source citations.
-* Configured `gemini-embedding-2` and an in-memory vector store with cosine similarity ranking to achieve high-accuracy, zero-hallucination document search.
+| Project | Key Technologies | Description | Links |
+| :--- | :--- | :--- | :--- |
+| **🤖 AI Analytics Agent** | FastAPI, LangGraph, Streamlit, Gemini API, MongoDB, Docker, AWS | Engineered an agentic text-to-MongoDB analytics system using LangGraph and Gemini API to convert plain-English queries into validated database operations with strict read-only execution security and multi-turn chat memory. | [Live Demo](https://ai-analytics-interface.marriagebiodatacreator.com) • [Source Code](https://github.com/saurabh-ai-tech/ai-analytics-agent.git) |
+| **📄 Chat with Multiple PDFs (RAG System)** | Python, Streamlit, Gemini API, Vector Embeddings, PyPDF, RAG | Built a Retrieval-Augmented Generation (RAG) document chat app with semantic chunking, page/file metadata preservation, and cosine similarity ranking for grounded answers with precise source citations. | [Live Demo](https://chat-with-multiple-pdfs-lnxn.onrender.com/) • [Source Code](https://github.com/saurabh-ai-tech/chat-with-multiple-PDFs.git) |
+| **📊 Student Performance ML Pipeline** | Python, FastAPI, Scikit-Learn, Docker, Pandas, NumPy | Architected an end-to-end Machine Learning pipeline featuring automated data ingestion, encoding, hyperparameter-tuned regression models, and a lightweight FastAPI interface containerized with Docker. | [Live Demo](https://machine-learning-project-agn0.onrender.com/predictdata) • [Source Code](https://github.com/saurabh-ai-tech/machine-learning-project.git) |
 
 ---
 
-### 💼 Experience
+## 💼 Work Experience
 
-#### 🤖 AI Agents — Freelance / Independent
-🗓 *March 2025 – Present*
-* **RAG Architecture:** Architected end-to-end Retrieval-Augmented Generation (RAG) pipelines using LangChain and Vector Databases (ChromaDB/Pinecone) to reduce model hallucinations.
-* **Autonomous Agents:** Developed multi-step AI agents capable of autonomous research, tool-calling, and content generation using Python and GPT-4o/Gemini APIs.
-* **Full-Stack AI Integration:** Built and deployed production-ready web applications with Django and FastAPI, integrating complex AI features into user-facing interfaces.
-* **Computer Vision & OCR:** Implemented Vision-AI workflows (e.g., Image-to-Data population) to automate manual data entry from unstructured document images.
-* **System Optimization:** Refined model performance through advanced Prompt Engineering (Chain-of-Thought, Few-Shot) and efficient document chunking strategies.
-* **Containerization & DevOps:** Managed environment consistency and deployment scalability using Docker for containerized AI microservices.
+### **Edumark Technologies** — *Generative AI Engineer*
+🗓 **August 2025 – Present** | Patna, Bihar, India
 
-#### 📊 ML & DL Projects — Independent
-🗓 *March 2024 – Present*
-* Built machine learning and deep learning models for classification and prediction tasks using real-world datasets.
-* Implemented neural network architectures to deepen fundamental understanding of Deep Learning mechanisms.
-* Executed data cleaning, Exploratory Data Analysis (EDA), and feature engineering to optimize model performance.
-* Evaluated models using key performance indicators: Accuracy, Precision, Recall, F1-score, and Loss Curves.
+* **LLM & RAG Integration:** Designed and deployed Retrieval-Augmented Generation (RAG) pipelines using vector databases (Pinecone, ChromaDB, Qdrant) to optimize response accuracy and reduce hallucination.
+* **Prompt Engineering & Workflows:** Implemented custom prompt strategies, agentic workflows (LangChain / LangGraph), and fine-tuned open-source LLMs (Llama, Mistral) for domain-specific tasks.
+* **Production AI Systems:** Integrated Generative AI models into scalable REST APIs and serverless architectures using FastAPI, Python, Docker, and AWS.
 
-#### 🔎 GeeksforGeeks — SEO Intern
-🗓 *September 2023 – March 2024 | Noida, UP, India*
-* Analyzed large-scale web and search performance data to identify trends, opportunities, and user behavior patterns.
-* Applied analytical thinking and data processing to optimize content discoverability across Search Engine Results Pages (SERPs).
-* Used Google Search Console and Analytics to interpret data patterns and support internal automated reporting workflows.
+---
 
-#### 📈 Indian Developers — Search Engine Optimization Analyst
-🗓 *January 2023 – July 2023 | Purnea, Bihar, India*
-* Managed technical SEO strategies, keyword research, and page speed optimization tasks to increase organic visibility.
+### **Marriage Biodata Creator** — *Founder & Product Lead*
+🗓 **June 2025 – Present** | Remote
 
-#### 💻 Suven Consultants and Technology Pvt. Ltd. — Frontend Intern
-🗓 *2020 – October 2020 | Mumbai, MH, India*
+* **Product Strategy & Growth:** Owned product roadmap, user acquisition, and retention strategies, driving organic growth to over **30,000 monthly users** and generating **40k+ revenue**.
+* **AI Analytics Integration:** Built an AI agent that bridges raw data and actionable business intelligence, allowing non-technical stakeholders to query MongoDB databases using natural language.
+* **Conversion & UX Optimization:** Optimized multi-step funnel logic and data-driven UI/UX design, significantly increasing retention while managing SEO across blogs and channels.
+
+---
+
+### **GeeksforGeeks** — *Python Backend Developer & Data Scientist*
+🗓 **March 2024 – August 2025** | Patna, Bihar, India
+
+* **Backend Development:** Built and maintained robust RESTful APIs using Django and FastAPI, optimizing query performance and system reliability.
+* **Data Science & ML:** Preprocessed complex datasets, built predictive machine learning models (Scikit-Learn, Pandas, NumPy), and automated data ingestion pipelines (PostgreSQL/SQL) for production ML workflows.
+
+---
+
+### **GeeksforGeeks** — *SEO Intern*
+🗓 **September 2023 – March 2024** | Noida, UP, India
+
+* Analyzed large-scale web and search performance data using Google Search Console and Analytics to identify trends and optimize content discoverability.
+
+---
+
+### **Indian Developers** — *Search Engine Optimization Analyst*
+🗓 **January 2023 – July 2023** | Purnea, Bihar, India
+
+* Managed technical SEO strategies and performance metrics to increase organic reach.
+
+---
+
+### **Suven Consultants and Technology Pvt. Ltd.** — *Frontend Intern*
+🗓 **2020 – October 2020** | Mumbai, MH, India
+
 * Built responsive web interfaces using HTML, CSS, and JavaScript with interactive logic components and form validation.
 
 ---
