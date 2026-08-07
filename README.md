@@ -1,175 +1,133 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi, I'm Saurabh
+# Hi 👋, I'm Saurabh Kumar
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI+Agents;Python+Developer;FastAPI+%7C+LangGraph+%7C+MongoDB;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
+🚀 Generative AI Engineer | AI Agents | NLP & LLMs | Autonomous Systems | RAG | Vector DBs
+I’m deeply fascinated by Generative AI and the potential of AI agents to autonomously interact, reason, and solve real-world problems. My focus is on LLMs, Retrieval-Augmented Generation (RAG), Vector Databases, and multi-agent systems to build scalable and intelligent AI solutions.
 
 ---
 
-## 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 🤖 Passionate about **AI Engineering** & **Generative AI**
-- 🧠 Building **AI Agents** using LangGraph & LangChain
-- ⚡ Backend Developer with **FastAPI**
-- 📊 Working with **MongoDB, Python & Streamlit**
-- 🌱 Currently learning **Agentic AI Systems**
-- 💡 Open to AI Engineer opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css"/>
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-</p>
-
-- LangChain
-- LangGraph
-- Google Gemini
-- OpenAI
-- Hugging Face
-- Scikit-Learn
-- Pandas
-- NumPy
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,postman"/>
-</p>
+* 🧠 **Specialization:** Building agentic workflows, RAG architectures, and autonomous multi-agent systems
+* 🌱 **Focus:** Reducing model hallucinations, context optimization, and scalable AI microservices
+* ⚡ **Hands-on Experience:** Vector Databases, LLMOps, Fine-tuning, and Full-Stack AI integration
+* 🏆 **Achievements:** D.S.T. Gov. of India Certified (23rd District Children's Science Congress)
+* 📍 **Location:** Begusarai, Bihar, India
+* 📫 **Contact:** 
+  * 📧 **Email:** [saurabh01.ece@gmail.com](mailto:saurabh01.ece@gmail.com)
+  * 📱 **Phone:** +91 9135460455
 
 ---
 
-# 🚀 Featured Projects
+### 🛠 Tech Stack
 
-## 🤖 AI Analytics Agent
+**🤖 Generative AI & LLMs**
+`LangChain` `LangGraph` `AutoGen` `RAG` `Prompt Engineering` `Chain-of-Thought` `LoRA` `GPTQ`
 
-AI-powered analytics dashboard that lets users query MongoDB databases using natural language.
+**🗄️ Vector DBs & Embeddings**
+`FAISS` `Pinecone` `ChromaDB` `Weaviate` `Vector Embeddings`
 
-**Tech Stack**
+**💻 Languages & Deep Learning**
+`Python` `PyTorch` `TensorFlow` `Hugging Face` `JavaScript` `Hindi` `English`
 
-- Python
-- FastAPI
-- Streamlit
-- LangGraph
-- Gemini
-- MongoDB
-- Plotly
+**⚙️ Frameworks & Web Platforms**
+`FastAPI` `Django` `Streamlit` `Scikit-Learn` `Pandas` `NumPy`
 
----
-
-## 💬 AI Chat Applications
-
-- AI Chatbot
-- PDF Chat
-- RAG Applications
-- AI Assistants
+**☁️ Cloud, DevOps & Tools**
+`AWS` `GCP` `Docker` `Nginx` `MongoDB` `Git` `Linux` `PM2` `Postman`
 
 ---
 
-## 🧠 Machine Learning Projects
+### 🚀 Featured Projects
 
-- Customer Churn Prediction
-- House Price Prediction
-- Student Performance Prediction
+#### 🤖 AI Analytics Agent
+* **Tech:** FastAPI, LangGraph, Streamlit, Gemini API, MongoDB, Docker, AWS, Nginx
+* 🔗 [Live Demo](https://ai-analytics-interface.marriagebiodatacreator.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/ai-analytics-agent)
+* Engineered an agentic text-to-MongoDB analytics system using LangGraph and Gemini API to convert plain-English queries into validated database operations and interactive Plotly visualizations.
+* Built a security validation layer and schema-grounding engine to strictly restrict execution to read-only MongoDB operations (`find`, `aggregate`, `count`), eliminating unauthorized data mutations.
+* Implemented secure JWT authentication and thread-based conversation memory using a MongoDB LangGraph checkpointer to persist multi-turn chat sessions.
+* Deployed microservices on AWS EC2 using PM2 process management, setting up Nginx reverse proxies, custom subdomains, and SSL certificates via Certbot.
 
----
+#### 📄 Chat with Multiple PDFs (RAG System)
+* **Tech:** Python, Streamlit, Gemini 2.5 Flash, Vector Embeddings, PyPDF, RAG
+* 🔗 [Live Demo](https://chat-with-multiple-pdfs-lnxn.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/chat-with-multiple-PDFs)
+* Built a Retrieval-Augmented Generation (RAG) document chat application using Streamlit and Google Gen AI SDK for contextual document analysis.
+* Implemented document parsing and semantic chunking using `pypdf`, preserving page and file metadata to output grounded answers with precise source citations.
+* Configured `gemini-embedding-2` and an in-memory vector store with cosine similarity ranking to achieve high-accuracy, zero-hallucination document search.
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📊 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)](https://github.com/YOUR_GITHUB_USERNAME)
+#### 📊 Student Performance Machine Learning Pipeline
+* **Tech:** Python, FastAPI, Scikit-Learn, Docker, Pandas, NumPy
+* 🔗 [Live Demo](https://machine-learning-project-agn0.onrender.com) | 💻 [Source Code](https://github.com/saurabh-ai-tech/machine-learning-project)
+* Architected a modular end-to-end Machine Learning pipeline featuring automated data ingestion, categorical encoding, feature scaling, and artifact persistence (`.pkl`).
+* Benchmarked multiple regression algorithms using hyperparameter tuning to accurately predict student academic performance.
+* Developed a lightweight FastAPI web interface and containerized the entire pipeline using Docker for streamlined local and cloud deployment.
 
 ---
 
-## 🐍 Contribution Snake
+### 💼 Experience
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+#### 🤖 AI Agents — Freelance / Independent
+🗓 *March 2025 – Present*
+* **RAG Architecture:** Architected end-to-end Retrieval-Augmented Generation (RAG) pipelines using LangChain and Vector Databases (ChromaDB/Pinecone) to reduce model hallucinations.
+* **Autonomous Agents:** Developed multi-step AI agents capable of autonomous research, tool-calling, and content generation using Python and GPT-4o/Gemini APIs.
+* **Full-Stack AI Integration:** Built and deployed production-ready web applications with Django and FastAPI, integrating complex AI features into user-facing interfaces.
+* **Computer Vision & OCR:** Implemented Vision-AI workflows (e.g., Image-to-Data population) to automate manual data entry from unstructured document images.
+* **System Optimization:** Refined model performance through advanced Prompt Engineering (Chain-of-Thought, Few-Shot) and efficient document chunking strategies.
+* **Containerization & DevOps:** Managed environment consistency and deployment scalability using Docker for containerized AI microservices.
+
+#### 📊 ML & DL Projects — Independent
+🗓 *March 2024 – Present*
+* Built machine learning and deep learning models for classification and prediction tasks using real-world datasets.
+* Implemented neural network architectures to deepen fundamental understanding of Deep Learning mechanisms.
+* Executed data cleaning, Exploratory Data Analysis (EDA), and feature engineering to optimize model performance.
+* Evaluated models using key performance indicators: Accuracy, Precision, Recall, F1-score, and Loss Curves.
+
+#### 🔎 GeeksforGeeks — SEO Intern
+🗓 *September 2023 – March 2024 | Noida, UP, India*
+* Analyzed large-scale web and search performance data to identify trends, opportunities, and user behavior patterns.
+* Applied analytical thinking and data processing to optimize content discoverability across Search Engine Results Pages (SERPs).
+* Used Google Search Console and Analytics to interpret data patterns and support internal automated reporting workflows.
+
+#### 📈 Indian Developers — Search Engine Optimization Analyst
+🗓 *January 2023 – July 2023 | Purnea, Bihar, India*
+* Managed technical SEO strategies, keyword research, and page speed optimization tasks to increase organic visibility.
+
+#### 💻 Suven Consultants and Technology Pvt. Ltd. — Frontend Intern
+🗓 *2020 – October 2020 | Mumbai, MH, India*
+* Built responsive web interfaces using HTML, CSS, and JavaScript with interactive logic components and form validation.
 
 ---
 
-## 🌐 Connect with Me
+### 🎓 Education
 
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+* **Bachelor of Technology (B.Tech) — Electronics & Communication Engineering**
+  * *Purnea College of Engineering, Purnea* | *Aryabhatta Knowledge University, Patna*
+  * 🗓 Sep 2019 – Aug 2023
+* **11th & 12th (Science & Mathematics)**
+  * *R.C.S. College Manjhaul, Begusarai* | 🗓 2017 – 2019
 
 ---
 
-## 💭 Quote
+### 📚 Publications & Certifications
 
-> **"The best way to predict the future is to build it."**
+**Publications**
+* *Roles of Generative AI in Drug Discovery: Advantages, Case Studies and Examples*
+* *Softmax Activation Function in Neural Networks*
+
+**Certifications & Tracks**
+* AI Engineer Agentic Track: The Complete Agent & MCP
+* SEO Intern Certification
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>## Hi there 👋
+### 🏆 Honors & Awards
 
-<!--
-**saurabh-ai-tech/saurabh-ai-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🏅 **D.S.T. Govt. of India Certified** — 23rd District Children's Science Congress (2015)
+* 🥇 **Winner** — Quiz Competition (2015)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/saurabhkumar-ai](https://www.linkedin.com/in/saurabhkumar-ai)
+* 🧑‍💻 **GitHub:** [github.com/saurabh-ai-tech](https://github.com/saurabh-ai-tech)
+* 📧 **Email:** [saurabh01.ece@gmail.com](mailto:saurabh01.ece@gmail.com)
