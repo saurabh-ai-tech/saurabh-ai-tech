@@ -74,17 +74,7 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 🗓 **September 2023 – March 2024** | Noida, UP, India
 
 * Analyzed large-scale web and search performance data using Google Search Console and Analytics to identify trends and optimize content discoverability.
-
-### **Indian Developers** — *Search Engine Optimization Analyst*
-🗓 **January 2023 – July 2023** | Purnea, Bihar, India
-
-* Managed technical SEO strategies and performance metrics to increase organic reach.
-
-### **Suven Consultants and Technology Pvt. Ltd.** — *Frontend Intern*
-🗓 **2020 – October 2020** | Mumbai, MH, India
-
-* Built responsive web interfaces using HTML, CSS, and JavaScript with interactive logic components and form validation.
-
+  
 ---
 
 ## 🎓 Education
@@ -104,9 +94,9 @@ I’m deeply fascinated by Generative AI and the potential of AI agents to auton
 * [Softmax Activation Function in Neural Networks](https://www.geeksforgeeks.org/deep-learning/the-role-of-softmax-in-neural-networks-detailed-explanation-and-applications/)
 
 **Certifications & Tracks**
-* AI Engineer Agentic Track: The Complete Agent & MCP
-* SEO Intern Certification
-
+* [AI Engineer Agentic Track: The Complete Agent & MCP](https://www.udemy.com/certificate/UC-6f4ba9ab-ec07-47fc-a66e-dc95c0927e88/)
+* [Programming in c and c++](https://ict-certificates.s3.ap-south-1.amazonaws.com/35399-417392-42ac8767eb11722e.pdf)
+* [Enhancing Soft Skills and Personality]()
 ---
 
 ### 🏆 Honors & Awards
